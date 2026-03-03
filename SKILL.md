@@ -1,9 +1,6 @@
 ---
 name: esg-screening
 description: ESG analysis methodology using standard frameworks for environmental, social, and governance assessment
-metadata:
-  author: scrutari
-  version: "1.0"
 ---
 
 # ESG Screening

@@ -9,6 +9,16 @@ A standalone AI skill package for **ESG (Environmental, Social, Governance) scre
 
 Unlike generic sustainability prompts, this package delivers a rigorous assessment framework: systematic evaluation across all three ESG pillars, mapping to established reporting standards (SASB, TCFD, GRI, UN SDGs, ISSB, EU Taxonomy), industry-specific materiality analysis, and a structured scoring system -- all grounded in institutional-grade ESG methodology.
 
+## Install
+
+```bash
+npx skills add FoundationalResearch/skills@esg-screening
+```
+
+Works with **Claude Code, Cursor, GitHub Copilot, Codex, Gemini, Windsurf**, and [20+ other agents](https://skills.sh).
+
+> Part of the [FoundationalResearch Skills](https://github.com/FoundationalResearch/skills) collection — 14 professional financial analysis skills for AI agents.
+
 ## What's Included
 
 | File | Purpose |
@@ -159,7 +169,7 @@ Other financial analysis skill packages from FoundationalResearch:
 - `@foundationalresearch/earningscallanalysis` -- Earnings call transcript analysis with sentiment and key metrics extraction
 - `@foundationalresearch/companalysis` -- Comparable company analysis with peer benchmarking and relative valuation
 
-## Installation
+## Also available on npm
 
 ```bash
 npm install @foundationalresearch/esgscreening
