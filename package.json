@@ -1,0 +1,18 @@
+{
+  "name": "@foundationalresearch/esgscreening",
+  "version": "1.0.0",
+  "description": "ESG screening skill — environmental, social, and governance analysis using standard frameworks for responsible investing",
+  "keywords": ["ai-skill", "financial-analysis", "esg", "sustainability", "environmental", "social", "governance", "responsible-investing", "llm", "claude", "cursor", "codex"],
+  "author": "FoundationalResearch",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FoundationalResearch/esgscreening.git"
+  },
+  "homepage": "https://github.com/FoundationalResearch/esgscreening#readme",
+  "bugs": {
+    "url": "https://github.com/FoundationalResearch/esgscreening/issues"
+  },
+  "files": ["SKILL.md", "references/", "README.md", "LICENSE"],
+  "type": "module"
+}
